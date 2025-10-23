@@ -1,0 +1,15 @@
+*.vtp filter=lfs diff=lfs merge=lfs -text
+*.vta filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.clz filter=lfs diff=lfs merge=lfs -text
+*.lpz filter=lfs diff=lfs merge=lfs -text
+*.vtz filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.qsys filter=lfs diff=lfs merge=lfs -text
+*.tmf filter=lfs diff=lfs merge=lfs -text
+*.gcpro filter=lfs diff=lfs merge=lfs -text
+*.gdl filter=lfs diff=lfs merge=lfs -text
+*.cdi filter=lfs diff=lfs merge=lfs -text
+*.smw filter=lfs diff=lfs merge=lfs -text
+*.sig filter=lfs diff=lfs merge=lfs -text
